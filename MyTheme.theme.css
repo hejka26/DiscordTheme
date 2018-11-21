@@ -1,0 +1,12 @@
+//META{"name":"Vaporwave Theme","description":"something","author":"hejka26","version":"1.6"}*//{}
+@import url(https://satoru8.github.io/StarterTheme/Fixes.css);	
+@import url(https://gitlab.com/Hejka26/discordtheme/raw/master/MyTheme.css);  /* Import your link here. This is the link to your MyTheme.css file on your github page. */
+:root {
+    --light: rgba(0, 0, 0, .4); 		/* Overall brightness. 1= black, 0 = transparent */
+    --userlight:rgba(0, 0, 0, .3);		/* Brightness for the userpopouts */
+	--mc: rgba(197, 61, 255, 0.5);;		/* Main colour. Larger items, backgrounds. */
+	--sc: rgba(255, 80, 255, 0.8);		/* Accent/Secondary colour. Borders, notifications & such.  */
+	--font-size: 1rem;
+	--text:  #eee; /* Chat text colour. */
+}
+.appMount-3VJmYg {background: url(https://i.redd.it/5fquy1bwhnm11.png) center/cover no-repeat} /* Background */
