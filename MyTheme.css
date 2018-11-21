@@ -88,6 +88,7 @@ body,h1,h2,h3,h4,h5,h6 {color: #fff);font-family:var(--font);text-rendering: opt
 .theme-dark .guildSeparator-1X4GQ1:after{display:none}
 .theme-dark .friendsOnline-_wi_fM{color:#fff}
 .theme-dark .guild-1EfMGQ.unread-qLkInr:before {background: var(--sc)}
+.theme-dark .guildsWrapper-5TJh6A {background: rgba(234, 44, 231, 0.25)}
 
 /* Channels */
 .channelNotices-41mJbj .channelNotice-1-XFjC.invite-OjTXrW {background: none}
