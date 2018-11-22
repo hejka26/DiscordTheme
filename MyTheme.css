@@ -43,11 +43,11 @@ body,h1,h2,h3,h4,h5,h6 {color: #fff);font-family:var(--font);text-rendering: opt
 .username-_4ZSMR, .usernameWrapper-1S-G5O .username-_4ZSMR {font-weight: 600;text-shadow:0 0 3px rgb(0, 0, 0);border-radius:10%}/* User Name */
 .theme-dark .timestampCozy-2hLAPV {color: #fff}
 .theme-dark .autocomplete-1vrmpx {background-color: rgba(0, 0, 0, 0.9)}
-.theme-dark .inner-zqa7da {background-color: rgba(234, 44, 231, 0.25);box-shadow: 10 10 10px 10px var(--sc) } /* Chat box */
+.theme-dark .inner-zqa7da {background-color: hsla(0, 0%, 0%, 0.6);box-shadow: 0 0 3px 1px var(--sc) } /* Chat box */
 #app-mount .typing-2GQL18 {background: transparent}
-.theme-dark .markup-2BOw-j pre {background: rgba(234, 44, 231, 0.25);border-color: var(--sc)}
-.theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline {background: rgba(234, 44, 231, 0.25)}
-.theme-dark .markup-2BOw-j a {color: #0096cf;background:rgba(234, 44, 231, 0.25)}
+.theme-dark .markup-2BOw-j pre {background: rgba(0, 0, 0, 0.4);border-color: var(--sc)}
+.theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline {background: rgba(0, 0, 0, 0.7)}
+.theme-dark .markup-2BOw-j a {color: #0096cf;background:rgba(0, 0, 0, 0.3)}
 .theme-dark .dividerEnabled-2TTlcf {display:none}
 .theme-dark .channelTextArea-rNsIhG {border-top:none}
 
