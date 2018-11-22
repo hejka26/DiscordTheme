@@ -9,7 +9,7 @@
 .titleBar-AC4pGV::after {content:""; position:absolute; z-index:-1; top:0; left:0; right:0; width:100%; height:22px} /* Titlebar layer */
 
 /* Main Transparency */
-.theme-dark .chat-3bRxxu,.theme-dark .guildsWrapper-5TJh6A,.theme-dark .layer-3QrUeG,.theme-dark .wrapper-29NfPK,
+.theme-dark .chat-3bRxxu,.theme-dark .layer-3QrUeG,.theme-dark .wrapper-29NfPK,
 .theme-dark .chat-3bRxxu>.content-yTz4x3, .theme-dark .chat-3bRxxu form, .flex-horizontal>.flex-spacer, 
 .theme-dark .uploadModal-2ifh8j .footer-3mqk7D, .theme-dark #friends, .video-1FfuMD, .theme-dark .private-channel-call,
 .theme-dark .activityFeed-28jde9, .theme-dark .footer-2yfCgX, .theme-dark .headerBar-UHpsPw, 
