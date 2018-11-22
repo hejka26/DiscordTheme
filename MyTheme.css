@@ -14,7 +14,7 @@
 .theme-dark .uploadModal-2ifh8j .footer-3mqk7D, .theme-dark #friends, .video-1FfuMD, .theme-dark .private-channel-call,
 .theme-dark .activityFeed-28jde9, .theme-dark .footer-2yfCgX, .theme-dark .headerBar-UHpsPw, 
 .theme-dark .channels-Ie2l6A, .theme-dark .container-PNkimc, .theme-dark .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN, 
-.theme-dark .standardSidebarView-3F1I7i .contentRegion-3nDuYy, .theme-dark .layers-3iHuyZ, .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH, 
+.theme-dark .standardSidebarView-3F1I7i .contentRegion-3nDuYy, .theme-dark .layers-3iHuyZ, .theme-dark .guilds-1q_RqH, 
 .theme-dark .chat-3bRxxu .content-yTz4x3, .theme-dark .members-1998pB, .theme-dark .title-3qD0b-, .theme-dark .scroller-2v3d_F, 
 .theme-dark .header-2o-2hj, .theme-dark .container-2Thooq,.theme-dark .messagesWrapper-3lZDfY,.theme-dark .gameLibrary-TTDw4Y  {background: transparent !important;background-color: transparent !important}
 
@@ -88,7 +88,7 @@ body,h1,h2,h3,h4,h5,h6 {color: #fff);font-family:var(--font);text-rendering: opt
 .theme-dark .guildSeparator-1X4GQ1:after{display:none}
 .theme-dark .friendsOnline-_wi_fM{color:#fff}
 .theme-dark .guild-1EfMGQ.unread-qLkInr:before {background: var(--sc)}
-.theme-dark .guildsWrapper-5TJh6A {background: rgba(234, 44, 231, 0.25)}
+.theme-dark .guildsWrapper-5TJh6A {background: rgba(234, 44, 231, 0.25) !important;}
 
 /* Channels */
 .channelNotices-41mJbj .channelNotice-1-XFjC.invite-OjTXrW {background: none}
